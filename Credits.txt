@@ -1,0 +1,17 @@
+﻿Icones utilisées dans l'application
+
+Icone pour la zone de notification lorsqu'au moins une sauvegarde ne peut pas être faite.
+<a href="https://www.flaticon.com/free-icons/warning" title="warning icons">Warning icons created by Creatype - Flaticon</a>
+
+Icone utilisée pour indiquer :
+- dans la zone de notification, que TOUTES les sauvegardes ne peuvent pas être réalisées.
+- dans l'application, que la job ne peut pas être sauvegardée.
+<a href="https://www.flaticon.com/free-icons/cross" title="cross icons">Cross icons created by Roundicons - Flaticon</a>
+
+Icone utilisée pour indiquer :
+- dans la zone de notification, toutes les sauvegardes peuvent être faite.
+- dans l'application, que la job peut être sauvegardée.
+<a href="https://www.flaticon.com/free-icons/tick" title="tick icons">Tick icons created by Roundicons - Flaticon</a>
+
+Icone utilisée dans l'application pour l'ouverture du dossier de sauvegarde
+<a href="https://www.flaticon.com/fr/icones-gratuites/dossier" title="dossier icônes">Dossier icônes créées par kumakamu - Flaticon</a>
