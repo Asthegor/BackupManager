@@ -25,6 +25,10 @@ Développée en **C# / WinForms / .NET 8**.
 
 > Liste des jobs avec statut, progression en cours (Job 5/6 – 52 %) et bouton d'annulation.
 
+![Formulaire de modification d'un job](ScreenShot_BackupManager_Modifications.png)
+
+> Formulaire d'édition : configuration de la source, de la destination, de l'heure et des répertoires à exclure.
+
 ---
 
 ## Prérequis
