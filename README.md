@@ -42,7 +42,7 @@ Développée en **C# / WinForms / .NET 8**.
 ### Depuis les sources
 
 ```bash
-git clone https://github.com/<votre-utilisateur>/BackupManager.git
+git clone https://github.com/Asthegor/BackupManager.git
 cd BackupManager
 dotnet build
 dotnet run
